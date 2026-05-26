@@ -2,7 +2,7 @@
   "date_maj": "26 mai 2026",
   "source": "Odoxa / Public Sénat",
   "premier_tour": [
-    { "candidat": "Bardella", "parti": "RN", "score": 32, "evolution": 0 },
+    { "candidat": "Bardella", "parti": "RN", "score": 33, "evolution": 0 },
     { "candidat": "Philippe", "parti": "LR", "score": 17, "evolution": -4 },
     { "candidat": "Mélenchon", "parti": "LFI", "score": 16, "evolution": 4 }
   ]
